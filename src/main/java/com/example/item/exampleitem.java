@@ -3,7 +3,7 @@ package com.example.item;
 import com.example.*;
 import net.minecraft.world.item.*;
 
-pubic class exampleitem{
+public class exampleitem{
 
 }
 
